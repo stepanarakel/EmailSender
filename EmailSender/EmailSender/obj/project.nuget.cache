@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9ErXXqXiUuF67KzuAZoksn4xu7IUAfOCIOVOv37fKnfwLZOqtFjK2L3M+QeOr3C/bFM12lD0wUztvjkOWf8QSA==",
+  "dgSpecHash": "idetd7G6UizjrR+iRgoJI/W3FGEyrUKnjZ7cczs2mLgA3boBYWzzvRSMTXksutXHFSSdZkwWlo5JcoKFl8qY8w==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arace\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
-    "C:\\Users\\arace\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    "C:\\Users\\arace\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\arace\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\arace\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }
