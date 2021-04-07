@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailSender.csproj": {}
+    "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailService.csproj": {}
   },
   "projects": {
-    "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailSender.csproj": {
+    "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailSender.csproj",
-        "projectName": "EmailSender",
-        "projectPath": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailSender.csproj",
+        "projectUniqueName": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailService.csproj",
+        "projectName": "EmailService",
+        "projectPath": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\EmailService.csproj",
         "packagesPath": "C:\\Users\\arace\\.nuget\\packages\\",
         "outputPath": "C:\\GITHUB\\EmailSender\\EmailSender\\EmailSender\\obj\\",
         "projectStyle": "PackageReference",
@@ -47,10 +47,6 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.78, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
             },
             "Npgsql": {
               "target": "Package",

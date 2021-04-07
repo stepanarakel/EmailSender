@@ -1,0 +1,8 @@
+C:\GITHUB\EmailSender\EmailSender\Postman\obj\Debug\netcoreapp3.1\Postman.AssemblyInfoInputs.cache
+C:\GITHUB\EmailSender\EmailSender\Postman\obj\Debug\netcoreapp3.1\Postman.AssemblyInfo.cs
+C:\GITHUB\EmailSender\EmailSender\Postman\obj\Debug\netcoreapp3.1\Postman.csproj.CoreCompileInputs.cache
+C:\GITHUB\EmailSender\EmailSender\Postman\bin\Debug\netcoreapp3.1\Postman.deps.json
+C:\GITHUB\EmailSender\EmailSender\Postman\bin\Debug\netcoreapp3.1\Postman.dll
+C:\GITHUB\EmailSender\EmailSender\Postman\bin\Debug\netcoreapp3.1\Postman.pdb
+C:\GITHUB\EmailSender\EmailSender\Postman\obj\Debug\netcoreapp3.1\Postman.dll
+C:\GITHUB\EmailSender\EmailSender\Postman\obj\Debug\netcoreapp3.1\Postman.pdb

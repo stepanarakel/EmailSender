@@ -18,3 +18,15 @@ C:\GITHUB\EmailSender\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSende
 C:\GITHUB\EmailSender\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.dll
 C:\GITHUB\EmailSender\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.pdb
 C:\GITHUB\EmailSender\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.genruntimeconfig.cache
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.CopyComplete
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Postman.dll
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Postman.pdb
+C:\GITHUB\EmailSender\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
